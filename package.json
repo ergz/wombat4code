@@ -1,0 +1,21 @@
+{
+  "name": "wombat4code",
+  "displayName": "wombat4code",
+  "description": "sublime text wombat theme ported to vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wombat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wombat-color-theme.json"
+      }
+    ]
+  }
+}
